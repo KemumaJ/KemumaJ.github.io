@@ -1,8 +1,27 @@
 body{
     background-color: beige;
-    background-image: url(pexels-photo-lemonades.jpeg);
+    width: auto;
 }
-p{
-    font-family: Cambria;
+ul{
+    font-family: 'Times New Roman', Times, serif;
     font-weight: bolder;
+    font-style: normal;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
 }
+ol{
+    font-weight: bolder;
+    color: chocolate;
+    columns: auto;
+}
+h1{
+    color:red ;
+}
+.Navbar{
+display: inline;
+display: block;
+width: 60px;
+}
+
+  
