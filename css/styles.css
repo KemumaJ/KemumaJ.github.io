@@ -1,14 +1,12 @@
 body{
-    background-color: beige;
-    width: auto;
+    background-color: bisque
 }
+
 ul{
     font-family: 'Times New Roman', Times, serif;
     font-weight: bolder;
     font-style: normal;
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
+    
 }
 ol{
     font-weight: bolder;
@@ -19,9 +17,10 @@ h1{
     color:red ;
 }
 .Navbar{
-display: inline;
-display: block;
-width: 60px;
+    font-size:large;
+    display: inline-block;
 }
-
-  
+.Reviews{
+    font-style: italic;
+    margin: 20px;
+}
