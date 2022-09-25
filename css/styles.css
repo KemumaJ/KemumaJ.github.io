@@ -1,5 +1,5 @@
 body{
-    background-color: bisque
+    background-color: bisque;
 }
 
 ul{
@@ -21,6 +21,9 @@ h1{
     display: inline-block;
 }
 .Reviews{
-    font-style: italic;
-    margin: 20px;
+    color: maroon;
+    font-weight: bolder;
+    font: large;
+    font-family: 'Courier New', Courier, monospace;
+    display: grid;
 }
